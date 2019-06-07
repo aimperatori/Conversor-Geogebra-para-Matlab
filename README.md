@@ -1,2 +1,3 @@
-# Conversor-Geogebra-para-Matlab
-Recebe em arquivo os dados em formato geogebra e converte para o Matlab
+# Conversor Geogebra para Matlab
+
+Versão em C com leitura e escrita em arquivo, para os dados em formato Geogebra e converte para o Matlab
